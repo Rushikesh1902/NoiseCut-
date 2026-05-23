@@ -10,7 +10,7 @@ The platform acts as an automated moderation hub for crowdsourced compensation d
 ## 🔗 Live Demo
 
 ```md id="g9k4iw"
-[https://noisecut.onrender.com]
+https://noisecut.onrender.com
 ```
 
 ---
