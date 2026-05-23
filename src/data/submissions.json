@@ -1,0 +1,99 @@
+[
+  {
+    "uuid": "8199449f-7a0d-4f83-9427-bdaeae2d507a",
+    "company": "ServiceNow",
+    "title": "Software Engineer",
+    "jobFamily": "Software Engineer",
+    "jobFamilySlug": "software-engineer",
+    "level": "IC1",
+    "focusTag": "Software Engineer",
+    "yearsOfExperience": 1,
+    "yearsAtCompany": 0,
+    "yearsAtLevel": null,
+    "offerDate": "Mon Sep 09 2024 09:15:00 GMT+0000 (Coordinated Universal Time)",
+    "location": "Pune, MH, India",
+    "locationSlug": "pune-ind",
+    "workArrangement": "hybrid",
+    "compPerspective": "offer",
+    "cityId": 47926,
+    "dmaId": 10065,
+    "countryId": 113,
+    "exchangeRate": 83.94,
+    "baseSalary": 19000,
+    "baseSalaryCurrency": "INR",
+    "salaryFormat": null,
+    "employmentType": null,
+    "totalCompensation": 27600,
+    "firstYearTotalCompensation": 30100,
+    "avgAnnualStockGrantValue": 5000,
+    "firstYearStockGrantValue": 5000,
+    "totalStockGrantValue": 20000,
+    "stockGrantCurrency": "USD",
+    "avgAnnualBonusValue": 3500,
+    "firstYearBonusValue": 6100,
+    "bonusCurrency": "INR",
+    "salesComp": null,
+    "negotiatedAmount": null,
+    "gender": null,
+    "ethnicity": null,
+    "education": null,
+    "otherDetails": null,
+    "companyInfo": {
+      "registered": true,
+      "icon": "https://img.logo.dev/servicenow.com?token=",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    "vestingSchedule": [
+      {
+        "percent": 25,
+        "occurrences": 1
+      },
+      {
+        "percent": 25,
+        "occurrences": 4
+      },
+      {
+        "percent": 25,
+        "occurrences": 4
+      },
+      {
+        "percent": 25,
+        "occurrences": 4
+      }
+    ],
+    "tags": null,
+    "stockType": "stock",
+    "avgAnnualOptionsGranted": null,
+    "totalOptionsGranted": null,
+    "optionStrikePrice": null,
+    "optionPreferredPrice": null,
+    "totalOutstandingShares": null,
+    "latestCompanyValuation": null,
+    "companySize": null,
+    "fundingStage": null,
+    "annualTargetBonusValue": 1900,
+    "annualTargetBonusPercentage": null,
+    "additionalBonuses": [
+      {
+        "type": "relocation",
+        "value": 1800,
+        "currency": "INR"
+      },
+      {
+        "type": "sign-on",
+        "value": 2400,
+        "currency": "INR"
+      },
+      {
+        "type": "sign-on",
+        "value": 2400,
+        "currency": "INR"
+      }
+    ],
+    "userCurrency": "USD",
+    "userExchangeRate": null,
+    "commentsAndRepliesCount": null,
+    "threadId": null
+  }
+]

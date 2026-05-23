@@ -1,0 +1,6 @@
+{
+  "name": "NoiseCut",
+  "description": "AI-powered trust validation dashboard for crowdsourced compensation data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
