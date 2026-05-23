@@ -1,5 +1,6 @@
 # NoiseCut 🛡️ # 
 NoiseCut is an AI-powered trust validation dashboard built for the "Signal Over Noise" Hackathon in collaboration with Levels.fyi.
+
 The platform acts as an automated moderation hub for crowdsourced compensation data—safeguarding dataset integrity by detecting suspicious or unrealistic entries, calculating deterministic trust scores via Python, and writing concise AI-driven diagnostic summaries using the Gemini API.
 ## 🚀 Key Features ##
 1. Dynamic JSON Data Ingestion & State Reset
@@ -15,13 +16,13 @@ Automatically writes sharp, analytical explanations contextually parsing why an 
 Row-Selection Tracking: Inspect complete breakdowns of Base, Total Compensation (TC), sign-on bonuses, geographical rates, first-year stock vesting, work location flexibility, and verified company partner signals.
 UX Fixes: Uniform highlight/selected row background extensions across responsive grids, zero-lag sidebar interaction, and unified dark interfaces.
 ## 🛠️ Tech Stack ##
-Frontend: React 18, Vite, Tailwind CSS, Framer Motion (for fluid viewport transitions), Lucide React
-Backend: Express Server, TypeScript (tsx runner), direct Python Child Process Integration
-Data Layer: Local storage & JSON session caching
-AI Engine: Google Cloud Gemini Pro via @google/genai Node SDK
+- Frontend: React 18, Vite, Tailwind CSS, Framer Motion (for fluid viewport transitions), Lucide React
+- Backend: Express Server, TypeScript (tsx runner), direct Python Child Process Integration
+- Data Layer: Local storage & JSON session caching
+- AI Engine: Google Cloud Gemini Pro via @google/genai Node SDK
 ## 📂 Project Directory Structure ##
 
-'''
+```
 code
 Text
 ├── backend/
@@ -40,7 +41,7 @@ Text
 ├── server.ts               # Express.js production back-end & Gemini API proxy router
 ├── package.json            # Node configuration scripts & dynamic dependencies
 └── .env.example            # Environment skeleton
-'''
+```
 ## ⚡ Setup & Installation ##
 Prerequisite
 Make sure you have Node.js (v18+) and Python 3 installed on your workstation.
@@ -72,6 +73,7 @@ npm run build
 npm start
 ## 📝 Payload Schema Example
 To test the dynamic import, use an array containing JSON objects formatted with this structure:
+```
 code
 JSON
 [
@@ -93,3 +95,4 @@ JSON
     "workArrangement": "hybrid"
   }
 ]
+```
