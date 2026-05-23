@@ -1,4 +1,4 @@
-# NoiseCut 🛡️
+# [NoiseCut](https://noisecut.onrender.com) 
 
 > Cutting noise from crowdsourced compensation data.
 
@@ -7,18 +7,16 @@ The platform acts as an automated moderation hub for crowdsourced compensation d
 
 ---
 
-## 🔗 Live Demo
-
-```md id="g9k4iw"
+## 🔗 Live Demo : 
+```
 https://noisecut.onrender.com
 ```
-
 ---
 
 ## 📸 Preview
 ### Demo Video
 
-```md id="lmn0jp"
+```
 [Watch Demo](https://your-demo-video-link.com)
 ```
 
