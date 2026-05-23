@@ -17,7 +17,7 @@ https://noisecut.onrender.com
 ### Demo Video
 
 ```
-[Watch Demo](https://your-demo-video-link.com)
+(https://drive.google.com/file/d/1PdwM5ApyR5GeDqtydEYnLIsIDi_zfKVq/view?usp=drivesdk)
 ```
 
 ---
